@@ -1,7 +1,10 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- BRSS
+- LEAD
+cargoProduction:
+- BULS
 colour: 1
 fundCostMultiplier: 100
 id: 0
