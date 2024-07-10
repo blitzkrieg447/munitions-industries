@@ -10,7 +10,7 @@ layout:
 - - - -1
 name: Galena Mine
 placement: anywhere
-probabilityInGame: 5
+probabilityInGame: 15
 probabilityMapGen: 4
 prospectChance: 75
 tiles: []
