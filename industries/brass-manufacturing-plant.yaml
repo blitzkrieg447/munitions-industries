@@ -11,7 +11,7 @@ layout:
 name: Brass Manufacturing Plant
 placement: anywhere
 probabilityInGame: 15
-probabilityMapGen: 3
+probabilityMapGen: 2
 prospectChance: 0
 tiles:
 - sprites:
