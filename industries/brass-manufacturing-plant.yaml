@@ -10,7 +10,7 @@ layout:
 - - - 0
 name: Brass Manufacturing Plant
 placement: anywhere
-probabilityInGame: 4
+probabilityInGame: 15
 probabilityMapGen: 3
 prospectChance: 0
 tiles:
@@ -18,7 +18,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3924
+      filename: industries/brass-manufacturing-plant/2.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
