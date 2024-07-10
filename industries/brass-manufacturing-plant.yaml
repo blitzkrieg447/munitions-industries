@@ -8,6 +8,7 @@ fundCostMultiplier: 100
 id: 2
 layout:
 - - - 0
+    - -1
 name: Brass Manufacturing Plant
 placement: anywhere
 probabilityInGame: 15
