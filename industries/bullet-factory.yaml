@@ -12,7 +12,7 @@ layout:
 - - - -1
 name: Bullet Factory
 placement: anywhere
-probabilityInGame: 3
+probabilityInGame: 15
 probabilityMapGen: 1
 prospectChance: 0
 tiles: []
