@@ -8,10 +8,10 @@ longName: bullets
 name: Bullets
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 9047
 sprite:
   filename: cargoes/bullets.png
   left: 0
   top: 0
 unitName: Crates
-weight: 16
+weight: 1
