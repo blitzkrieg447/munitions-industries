@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
@@ -7,7 +7,7 @@ fundCostMultiplier: 100
 id: 2
 layout:
 - - - -1
-name: Brass Manufactaring Plant
+name: Brass Manufacturing Plant
 placement: anywhere
 probabilityInGame: 4
 probabilityMapGen: 3
