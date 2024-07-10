@@ -25,4 +25,4 @@ tiles:
       filename: industries/brass-manufacturing-plant/1.png
       left: -31
       top: 0
-type: secondary
+type: primary
