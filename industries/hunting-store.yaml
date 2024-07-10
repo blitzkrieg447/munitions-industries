@@ -10,7 +10,7 @@ layout:
 - - - 0
 name: Hunting Store
 placement: in-town
-probabilityInGame: 2
+probabilityInGame: 15
 probabilityMapGen: 3
 prospectChance: 0
 tiles:
