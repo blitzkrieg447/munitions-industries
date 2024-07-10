@@ -7,7 +7,7 @@ fundCostMultiplier: 100
 id: 1
 layout:
 - - - -1
-name: 'New industry #1'
+name: Galena Mine
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
