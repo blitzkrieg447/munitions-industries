@@ -13,5 +13,5 @@ sprite:
   filename: cargoes/brass.png
   left: 0
   top: 0
-unitName: Items
+unitName: Tonnes
 weight: 16
