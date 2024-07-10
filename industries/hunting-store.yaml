@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- BULS
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 3
+layout:
+- - - -1
+name: Hunting Store
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary
