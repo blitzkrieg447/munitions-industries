@@ -9,7 +9,7 @@ layout:
 - - - -1
 name: Brass Manufactaring Plant
 placement: anywhere
-probabilityInGame: 3
+probabilityInGame: 4
 probabilityMapGen: 3
 prospectChance: 75
 tiles: []
