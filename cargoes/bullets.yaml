@@ -13,5 +13,5 @@ sprite:
   filename: cargoes/bullets.png
   left: 0
   top: 0
-unitName: Items
+unitName: Crates
 weight: 16
