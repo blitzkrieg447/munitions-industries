@@ -7,10 +7,10 @@ fundCostMultiplier: 100
 id: 0
 layout:
 - - - -1
-name: 'New industry #0'
+name: Bullet Factory
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+probabilityInGame: 3
+probabilityMapGen: 1
+prospectChance: 0
 tiles: []
-type: primary
+type: secondary
